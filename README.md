@@ -5,7 +5,7 @@
 
 ### 方法一：本地安装Node.js，下载本库脚本
 
-  - 教程请见：[EvineDeng/jd-base](https://github.com/EvineDeng/jd-base)，适用于以下系统：
+  - 教程请见：[EvineDeng/jd-base](https://github.com/ww69mm/jc/tree/main/jd-base)，适用于以下系统：
 
     1. Armbian/OpenWrt/Debian/Ubuntu/CentOS/Fedora/RedHat等Linux系统
 
@@ -23,7 +23,7 @@
  
 ### 方法三：Docker（NAS或VPS用户）
 
- - 可以精确控制任务运行时间，有二种办法：[docker办法一](https://github.com/ww69mm/jc/tree/main/docker)、[docker办法二（和本地安装Node.js类似）](https://github.com/EvineDeng/jd-base)
+ - 可以精确控制任务运行时间，有二种办法：[docker办法一](https://github.com/ww69mm/jc/tree/main/docker)、[docker办法二（和本地安装Node.js类似）](https://github.com/ww69mm/jc/tree/main/jd-base)
  - [环境变量集合](https://github.com/ww69mm/jc/blob/main/githubAction.md#%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AF%B4%E6%98%8E)
  
 #### 注：以上三种运行机制都是Node.js，故您需仔细阅读下面几点
